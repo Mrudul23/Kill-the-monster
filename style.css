@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border : 8px solid red;
+ border-radius: 8%;
+}
+.hero{
+  font-family: cooper;
+  font-size: larger;
+}
